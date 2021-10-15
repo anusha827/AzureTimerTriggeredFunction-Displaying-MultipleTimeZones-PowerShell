@@ -1,12 +1,9 @@
 # Input bindings are passed in via param block.
 param($Timer)
 
+#To display the details of available Time zones
 [System.TimeZoneInfo]::GetSystemTimeZones() | Select ID,StandardName
 
-# Get the current universal time in the default string format.
-
-
-#$c = (Get-Date).ToUniversalTime()
 
 $currentUTCtime=[System.TimeZoneInfo]::ConvertTimeBySystemTimeZoneId( `
     (Get-Date), 'UTC')
