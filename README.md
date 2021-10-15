@@ -1,4 +1,4 @@
-# TimerTriggeredAzureFunction-For-Displaying-ExecutionTime-In-MultipleTimeZones
+# TimerTriggeredAzureFunction-For-Displaying-ExecutionTime-In-MultipleTimeZones-Powershell
 
 The TimerTrigger makes it incredibly easy to have the functions executed on a schedule. 
 
