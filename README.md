@@ -1,0 +1,1 @@
+# TimerTriggeredAzureFunction-For-Displaying-ExecutionTime-In-MultipleTimeZones
